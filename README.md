@@ -24,4 +24,4 @@
 
 
 ![Snake animation](https://github.com/Thens18/Thens18/blob/main/github-user-contribution.svg)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
