@@ -23,5 +23,5 @@
 
 
 
-![Snake animation](https://github.com/Thens18/Thens18/blob/main/github-user-contribution.svg)
 
+![github-user-contribution](https://user-images.githubusercontent.com/96973721/191288035-269acaf9-047f-4132-a622-d4f24a0ba6ab.svg)
