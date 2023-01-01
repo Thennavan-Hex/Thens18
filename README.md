@@ -32,3 +32,10 @@
 <br />
 
 ![github-user-contribution](https://github.com/thens18/2023/blob/output/github-contribution-grid-snake.svg)
+
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/thens18">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="thens18" />
+  </a>
+</p>
