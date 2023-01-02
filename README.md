@@ -47,8 +47,7 @@
 
 ###
 
-![github-user-contribution](https://github.com/Thens18/snake/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/thens18/snake/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/thens18">
