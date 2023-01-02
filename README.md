@@ -47,7 +47,7 @@
 
 ###
 
-![github-user-contribution](https://github.com/thens18/2023/blob/output/github-contribution-grid-snake.svg)
+![github-user-contribution](https://github.com/Thens18/snake/blob/output/github-contribution-grid-snake.svg)
 
 
 <p align="center">
